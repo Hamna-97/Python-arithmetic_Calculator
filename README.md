@@ -15,7 +15,7 @@ A command-line calculator built in Python. The user enters two numbers, chooses 
 1. Make sure Python 3 is installed.
 2. Download or clone this repository:
    ```
-   git clone https://github.com/<Hamna-97>/python-arithmetic-calculator.git
+   git clone https://github.com/<Hamna-97>/Python-arithmetic-Calculator.git
    ```
 3. Run the program:
    ```
